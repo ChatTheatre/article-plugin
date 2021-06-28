@@ -1,4 +1,4 @@
-# plugin name
+# Article Plugin
 
 ### Required Script Spaces
 
